@@ -1,0 +1,15 @@
+{
+  "frame": "frame_0035.jpg",
+  "objects": [
+    {
+      "class": "person",
+      "confidence": 0.634,
+      "bbox_xyxy": [
+        51.8,
+        37.9,
+        86.1,
+        112.9
+      ]
+    }
+  ]
+}

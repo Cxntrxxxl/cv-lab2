@@ -1,0 +1,25 @@
+{
+  "frame": "frame_0047.jpg",
+  "objects": [
+    {
+      "class": "car",
+      "confidence": 0.733,
+      "bbox_xyxy": [
+        102.7,
+        203.3,
+        286.2,
+        429.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.585,
+      "bbox_xyxy": [
+        270.7,
+        0.5,
+        300.5,
+        43.0
+      ]
+    }
+  ]
+}
